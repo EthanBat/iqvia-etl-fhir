@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+output/
+.DS_Store
+
+# local tooling / personal notes — not part of the submission
+.claude/
+docs/INTERVIEW_PODCAST_SCRIPT.md
+Assignment_Overview.md
